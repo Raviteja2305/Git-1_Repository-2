@@ -7,6 +7,12 @@ public class Utility {
 
 		System.out.println("Check 1");
 		
+		System.out.println("Check 2");
+		
+		System.out.println("Check 3");
+		
+		System.out.println("Check 4");
+		
 	}
 
 }
