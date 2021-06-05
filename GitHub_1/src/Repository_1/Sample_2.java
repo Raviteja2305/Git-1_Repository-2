@@ -6,6 +6,8 @@ public class Sample_2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Created Sample 2 Java Class");
+		
+		System.out.println("Added new Line in Drafted Version - New Branch");
 
 	}
 
