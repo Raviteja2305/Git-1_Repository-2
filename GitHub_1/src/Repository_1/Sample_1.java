@@ -6,8 +6,6 @@ public class Sample_1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is Repository 1 in GitHub 1");
-		
-		System.out.println("Adding another line after Commit Only");
 
 	}
 
