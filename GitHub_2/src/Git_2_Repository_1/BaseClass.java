@@ -6,18 +6,6 @@ public class BaseClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("sample");
-		
-		System.out.println("Git 1");
-		
-		System.out.println("Git 2");
-		
-		System.out.println("Git 3");
-		
-		System.out.println("Git 4");
-		
-		System.out.println("Git 5");
-		
-		System.out.println("Git 6");
 
 	}
 
