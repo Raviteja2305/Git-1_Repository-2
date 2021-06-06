@@ -13,10 +13,6 @@ public class BaseClass {
 		
 		System.out.println("Local 5");
 		
-		System.out.println("Git 1");
-		
-		System.out.println("Git 2");
-		
 		System.out.println("Git 3");
 		
 		System.out.println("Git 4");
