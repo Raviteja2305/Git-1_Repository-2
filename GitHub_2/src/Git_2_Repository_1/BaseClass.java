@@ -7,10 +7,6 @@ public class BaseClass {
 		
 		System.out.println("sample");
 		
-		System.out.println("Local 1");
-		
-		System.out.println("Local 2");
-		
 		System.out.println("Local 3");
 		
 		System.out.println("Local 4");
